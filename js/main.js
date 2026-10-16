@@ -1,4 +1,4 @@
-/* KCCFT site scripts — vanilla JS, no dependencies */
+/* KCCFT site scripts - vanilla JS, no dependencies */
 (function () {
   'use strict';
   var d = document;
